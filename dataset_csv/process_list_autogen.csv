@@ -1,0 +1,1448 @@
+slide_id,label,case_id,process,status,seg_level,sthresh,mthresh,close,use_otsu,keep_ids,exclude_ids,a_t,a_h,max_n_holes,vis_level,line_thickness,use_padding,contour_fn
+02271 (1),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (10),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (2),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (3),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (4),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (5),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (6),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (7),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (8),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02271 (9),0,2271,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (1),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (10),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (2),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (3),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (4),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (5),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (6),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (7),0,2659,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02659 (8),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02659 (9),0,2659,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+02948 (1),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (10),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (2),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (3),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (4),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (5),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (6),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (7),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (8),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+02948 (9),0,2948,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03104 (1),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (10),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (2),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (3),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (4),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (5),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (6),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (7),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (8),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03104 (9),0,3104,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (1),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (10),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (2),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (3),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (4),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (5),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (6),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (7),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03376 (8),0,3376,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03376 (9),0,3376,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03408 (1),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (10),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (2),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (3),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (4),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (5),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (6),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (7),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (8),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03408 (9),0,3408,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (1),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (10),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (2),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (3),0,3423,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+03423 (4),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (5),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (6),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (7),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (8),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03423 (9),0,3423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04076 (1),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (10),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (2),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (3),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (4),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (5),0,4076,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04076 (6),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (7),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04076 (8),0,4076,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04076 (9),0,4076,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04165 (1),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (10),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (2),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (3),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (4),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (5),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (6),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (7),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (8),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04165 (9),0,4165,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (1),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (10),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (2),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (3),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (4),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (5),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (6),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (7),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (8),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04381 (9),0,4381,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (1),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (10),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (2),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (3),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (4),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (5),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (6),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (7),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (8),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04445 (9),0,4445,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (1),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (10),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (2),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (3),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (4),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (5),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (6),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (7),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (8),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04446 (9),0,4446,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04452 (1),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04452 (10),0,4452,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04452 (2),0,4452,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04452 (3),0,4452,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04452 (4),0,4452,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04452 (5),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04452 (6),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04452 (7),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04452 (8),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04452 (9),0,4452,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04509 (1),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (10),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (2),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (3),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (4),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (5),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (6),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (7),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (8),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04509 (9),0,4509,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (1),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (10),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (2),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (3),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (4),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (5),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (6),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (7),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (8),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04534 (9),0,4534,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(1),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(10),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(2),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(3),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(4),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(5),0,4622,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04622(6),0,4622,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04622(7),0,4622,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04622(8),0,4622,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04622(9),0,4622,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+04688 (1),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (10),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (2),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (3),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (4),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (5),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (6),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (7),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (8),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04688 (9),0,4688,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (1),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (10),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (2),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (3),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (4),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (5),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (6),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (7),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (8),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+04693 (9),0,4693,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05062 (1),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (10),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (2),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (3),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (4),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (5),0,5062,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05062 (6),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (7),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (8),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05062 (9),0,5062,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+05133 (1),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (10),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (2),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (3),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (4),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (5),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (6),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (7),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (8),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+05133 (9),0,5133,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+03183.1.1,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.10,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.2,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.3,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.4,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.5,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.6,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.7,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.8,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+03183.1.9,1,3183,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.1.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.1.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.1.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.1.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.10,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.2.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.2.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.2.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.2.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.3.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.3.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.3.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.3.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.4.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.4.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.4.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.4.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.5.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.5.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.5.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.5.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.6.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.6.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.6.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.6.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.7.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.7.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.7.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.7.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.8,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.1.9,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.2.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.2.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.2.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.2.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.3.1,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.3.2,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.3.3,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+04461.3.4,1,4461,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.1,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.10,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.2,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.3,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.4,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.5,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.6,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.7,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.8,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+05486.1.9,1,5486,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.1,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.10,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.2,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.3,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.4,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.5,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.6,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.7,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.8,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82862.1.9,1,82862,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.1,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.10,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.2,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.3,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.4,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.5,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.6,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.7,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.8,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+82889.1.9,1,82889,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.1,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.10,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.2,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.3,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.4,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.5,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.6,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.7,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.8,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83103.1.9,1,83103,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.1,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.10,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.2,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.3,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.4,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.5,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.6,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.7,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.8,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83105.1.9,1,83105,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.1,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.10,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.2,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.3,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.4,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.5,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.6,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.7,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.8,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83154.1.9,1,83154,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.1,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.10,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.2,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.3,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.4,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.5,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.6,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.7,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.8,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83156.1.9,1,83156,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.1,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.10,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.2,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.3,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.4,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.5,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.6,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.7,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.8,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+83653.1.9,1,83653,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.1,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.10,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.2,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.3,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.4,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.5,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.6,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.7,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.8,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84668.1.9,1,84668,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.1,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.10,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.2,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.3,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.4,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.5,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.6,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.7,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.8,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84720.1.9,1,84720,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.1,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.10,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.2,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.3,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.4,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.5,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.6,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.7,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.8,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84724.1.9,1,84724,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.1,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.10,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.2,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.3,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.4,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.5,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.6,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.7,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.8,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84780.1.9,1,84780,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.1,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.10,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.2,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.3,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.4,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.5,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.6,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.7,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.8,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84782.1.9,1,84782,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.1,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.10,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.2,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.3,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.4,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.5,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.6,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.7,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.8,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84786.1.9.,1,84786,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.1,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.2,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.3,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.4,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.5,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84934.1.6,1,84934,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84936.1.10,1,84936,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84936.1.7,1,84936,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84936.1.8,1,84936,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84936.1.9,1,84936,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.1,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.10,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.2,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.3,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.4,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.5,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.6,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.7,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.8,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84938.1.9,1,84938,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.1,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.10,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.2,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.3,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.4,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.5,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.6,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.7,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.8,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+84946.1.9,1,84946,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.1,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.10,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.2,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.3,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.4,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.5,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.6,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.7,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.8,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+85779.1.9,1,85779,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.1,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.10,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.2,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.3,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.4,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.5,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.6,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.7,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.8,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86003.1.9,1,86003,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.1,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.10,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.2,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.3,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.4,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.5,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.6,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.7,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.8,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86053.1.9,1,86053,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.1,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.10,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.2,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.3,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.4,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.5,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.6,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.7,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.8,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86560.1.9,1,86560,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.1,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.10,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.2,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.3,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.4,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.5,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.6,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.7,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.8,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86760.1.9,1,86760,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.1,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.10,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.2,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.3,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.4,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.5,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.6,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.7,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.8,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.1.9,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV1,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV2,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV3,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV4,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV5,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+86187.NV6,1,86187,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091-H1,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091-H2,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.1,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.10,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.2,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.3,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.4,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.5,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.6,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.7,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.8,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88091.1.9,1,88091,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098-H1,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098-H2,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098-H3,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.1,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.10,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.2,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.3,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.4,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.5,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.6,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.7,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.8,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88098.1.9,1,88098,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100-H1,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100-H2,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100-H3,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.1,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.10,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.2,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.3,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.4,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.5,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.6,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.7,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.8,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88100.1.9,1,88100,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190-H1,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190-H2,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190-H3,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.1,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.10,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.2,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.3,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.4,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.5,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.6,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.7,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.8,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88190.1.9,1,88190,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342-H1,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342-H2,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342-H3,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.1,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.10,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.2,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.3,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.4,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.5,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.6,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.7,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.8,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88342.1.9,1,88342,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491-H1,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491-H2,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491-H3,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.1,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.10,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.2,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.3,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.4,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.5,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.6,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.7,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.8,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88491.1.9,1,88491,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518-H1,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518-H2,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.1,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.10,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.2,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.3,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.4,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.5,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.6,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.7,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.8,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88518.1.9,1,88518,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573-H1,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573-H2,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.1,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.10,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.2,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.3,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.4,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.5,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.6,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.7,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.8,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88573.1.9,1,88573,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689-H1,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689-H2,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689-H3,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.1,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.10,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.2,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.3,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.4,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.5,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.6,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.7,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.8,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+88689.1.9,1,88689,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034-H1,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034-H2,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.1,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.10,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.2,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.3,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.4,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.5,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.6,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.7,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.8,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89034.1.9,1,89034,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184-H1,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184-H2,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184-H3,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.1,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.10,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.2,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.3,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.4,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.5,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.6,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.7,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.8,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89184.1.9,1,89184,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303-H1,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303-H2,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303-H3,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.1,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.10,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.2,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.3,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.4,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.5,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.6,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.7,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.8,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89303.1.9,1,89303,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432-H1,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432-H2,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432-H3,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.1,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.10,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.2,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.3,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.4,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.5,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.6,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.7,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.8,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89432.1.9,1,89432,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536-H1,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536-H2,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536-H3,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.1,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.10,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.2,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.3,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.4,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.5,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.6,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.7,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.8,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89536.1.9,1,89536,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567-H1,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567-H2,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567-H3,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567-H4,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.1,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.10,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.2,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.3,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.4,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.5,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.6,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.7,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.8,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89567.1.9,1,89567,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569-H1,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569-H2,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569-H3,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.1,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.10,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.2,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.3,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.4,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.5,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.6,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.7,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.8,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89569.1.9,1,89569,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571-H1,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571-H2,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571-H3,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.1,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.10,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.2,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.3,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.4,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.5,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.6,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.7,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.8,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89571.1.9,1,89571,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580-H1,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580-H2,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580-H3,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.1,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.10,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.2,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.3,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.4,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.5,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.6,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.7,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.8,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89580.1.9,1,89580,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592-H1,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592-H2,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592-H3,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.1,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.10,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.2,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.3,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.4,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.5,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.6,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.7,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.8,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89592.1.9,1,89592,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800-H1,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800-H2,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800-H3,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.1,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.10,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.2,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.3,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.4,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.5,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.6,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.7,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.8,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+89800.1.9,1,89800,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046-H1,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046-H2,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046-H3,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.1,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.10,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.2,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.3,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.4,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.5,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.6,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.7,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.8,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90046.1.9,1,90046,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656-H1,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656-H2,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656-H3,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656.1.1,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656.1.10,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656.1.2,1,90656,0,already_exist,-1,8,7,4,False,none,none,100.0,16.0,8,-1,250,True,four_pt
+90656.1.4,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90656.1.5,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90656.1.6,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90656.1.7,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90656.1.8,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90656.1.9,1,90656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831-H1,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831-H2,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831-H3,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831.1.1,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.10,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831.1.2,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831.1.3,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.4,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.5,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90831.1.6,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.7,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.8,1,90831,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90831.1.9,1,90831,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860-H1,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860-H2,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.1,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.10,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.2,1,90860,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90860.1.3,1,90860,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90860.1.4,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.5,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.6,1,90860,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90860.1.7,1,90860,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90860.1.8,1,90860,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90860.1.9,1,90860,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862-H1,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862-H2,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862-H3,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862.1.1,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862.1.10,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.2,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.3,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.4,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862.1.5,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.6,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90862.1.7,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.8,1,90862,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90862.1.9,1,90862,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864-H1,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864-H2,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.1,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.10,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.2,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.3,1,90864,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90864.1.4,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.5,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.6,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.7,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90864.1.8,1,90864,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90864.1.9,1,90864,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90977-H1,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977-H2,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977-H3,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.1,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.10,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.2,1,90977,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+90977.1.3,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.4,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.5,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.6,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.7,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.8,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90977.1.9,1,90977,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979-H1,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979-H2,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979-H3,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.1,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.10,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.2,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.3,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.4,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.5,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.6,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.7,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.8,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+90979.1.9,1,90979,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093-H1,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093-H2,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093-H3,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.1,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.10,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.2,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.3,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.4,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.5,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.6,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.7,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.8,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91093.1.9,1,91093,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.1,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.10,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.2,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.3,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.4,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.5,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.6,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.7,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.8,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095.1.9,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095H1,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095H2,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91095H3,1,91095,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188-H1,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188-H2,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.1,1,91188,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+91188.1.10,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.2,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.3,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.4,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.5,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.6,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.7,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.8,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91188.1.9,1,91188,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245-H1,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245-H2,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245-H3,1,91245,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+91245-H4,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245-H5,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.1,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.10,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.2,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.3,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.4,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.5,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.6,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.7,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.8,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91245.1.9,1,91245,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411-H1,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411-H2,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411-H3,1,91411,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+91411.1.1,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.10,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.2,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.3,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.4,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.5,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.6,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.7,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.8,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91411.1.9,1,91411,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483-H1,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483-H2,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483-H3,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.1,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.10,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.2,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.3,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.4,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.5,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.6,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.7,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.8,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91483.1.9,1,91483,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.1,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.10,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.2,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.3,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.4,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.5,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.6,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.7,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.8,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91517.1.9,1,91517,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.1,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.10,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.2,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.3,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.4,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.5,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.6,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.7,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.8,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91519.1.9,1,91519,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906-H1,1,91906,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+91906-H2,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906-H3,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.1,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.10,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.2,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.3,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.4,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.5,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.6,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.7,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.8,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+91906.1.9,1,91906,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134-H1,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134-H2,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134-H3,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134-H4,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134-H5,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.1,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.10,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.2,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.3,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.4,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.5,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.6,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.7,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.8,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92134.1.9,1,92134,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239-H1,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239-H2,1,92239,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92239-H3,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.1,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.10,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.2,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.3,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.4,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.5,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.6,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.7,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.8,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92239.1.9,1,92239,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.1,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.10,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.2,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.3,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.4,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.5,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.6,1,92269,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92269.1.7,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92269.1.8,1,92269,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92269.1.9,1,92269,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344-H1,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344-H2,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.1,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.2,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.3,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.4,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.5,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.6,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.7,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.1.8,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.2.1,1,92344,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92344.2.2,1,92344,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92354.1.1,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.10,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.2,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.3,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.4,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.5,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.6,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.7,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.8,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.1.9,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.H1,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92354.H2,1,92354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404-H1,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404-H2,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.1,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.10,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.2,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.3,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.4,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.5,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.6,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.7,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.8,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92404.1.9,1,92404,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.1,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.10,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.2,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.3,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.4,1,92488,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92488.1.5,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.6,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.7,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.8,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.1.9,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.H1,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.H2,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92488.H3,1,92488,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.1,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.10,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.2,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.3,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.4,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.5,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.6,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.7,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.8,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92656.1.9,1,92656,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720-H1,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720-H2,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720-H3,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.1,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.10,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.2,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.3,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.4,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.5,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.6,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.7,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.8,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92720.1.9,1,92720,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.1,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.10,1,92759,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92759.1.2,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.3,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.4,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.5,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.6,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.7,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.8,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92759.1.9,1,92759,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92856.1.1,1,92856,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92856.1.10,1,92856,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92856.1.2,1,92856,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92856.1.3,1,92856,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92856.1.4,1,92856,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92856.1.5,1,92856,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92856.1.6,1,92856,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92856.1.7,1,92856,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92856.1.8,1,92856,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92856.1.9,1,92856,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995-H1,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995-H2,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995-H3,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.1,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.10,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.2,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.3,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.4,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.5,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.6,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.7,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.8,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+92995.1.9,1,92995,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.1,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.10,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.2,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.3,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.4,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.5,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.6,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.7,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.8,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.1.9,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.H1,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.H2,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93070.H3,1,93070,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.1,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.10,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.2,1,93386,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+93386.1.3,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.4,1,93386,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+93386.1.5,1,93386,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+93386.1.6,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.7,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.8,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93386.1.9,1,93386,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520-H1,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520-H2,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520-H3,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520-H4,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.1,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.10,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.2,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.3,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.4,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.5,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.6,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.7,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.8,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93520.1.9,1,93520,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549-H1,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549-H2,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.1,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.10,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.2,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.3,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.4,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.5,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.6,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.7,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.8,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93549.1.9,1,93549,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.1,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.10,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.2,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.3,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.4,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.5.1,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.5.2,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.5.3,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.5.4,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.6,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.7,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.8,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+93944.1.9,1,93944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004-H1,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004-H2,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.1,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.10,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.2,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.3,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.4,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.5,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.6,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.7,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.8,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94004.1.9,1,94004,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046-H1,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046-H2,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046-H3,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046-H4,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.1,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.10,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.2,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.3,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.4,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.5,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.6,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.7,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.8,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94046.1.9,1,94046,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054-H1,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054-H2,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.1,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.10,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.2,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.3,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.4,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.5,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.6,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.7,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.8,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94054.1.9,1,94054,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300-H1,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300-H2,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300-H3,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.1,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.10,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.2,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.3,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.4,1,94300,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94300.1.5,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.6,1,94300,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94300.1.7,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.8,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94300.1.9,1,94300,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.1,1,94474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.10,1,94474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94474.1.2,1,94474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.3,1,94474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.4,1,94474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.5,1,94474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+94474.1.6,1,94474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94474.1.7,1,94474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94474.1.8,1,94474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+94474.1.9,1,94474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+92944.1.3,1,92944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.1,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.10,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.2,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.4,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.5,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.6,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.7,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.8,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+95944.1.9,1,95944,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748-H1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748-H2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748-H3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.10.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.10.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.10.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.10.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.5,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.6.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.6.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.6.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.6.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.7.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.7.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.7.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.7.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.8.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.8.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.8.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.8.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.9.1,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.9.2,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.9.3,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96748.1.9.4,1,96748,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752-H1,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752-H2,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752-H3,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.1,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.10,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.2,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.3,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.4,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.5,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.6,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.7,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.8,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+96752.1.9,1,96752,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010-H1,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010-H2,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010-H3,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.1,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.10,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.2,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.3,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.4,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.5,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.6,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.7,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.8,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97010.1.9,1,97010,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.1,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.10,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.2,1,97012,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97012.1.3,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.4,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.5,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.6,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.7,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.8,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97012.1.9,1,97012,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H1,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H2,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H3,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H4,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H5,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156-H6,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.1,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.10,1,97156,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97156.1.2,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.3,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.4,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.5,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.6,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.7,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.8,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97156.1.9,1,97156,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.1,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.1.10,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.2.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.2.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.3.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.3.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.4.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.4.2,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.1.4.3,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.1.4.4,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.5.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.5.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.5.3,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.5.4,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.6.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.6.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.6.3,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.6.4,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.7.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.7.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.7.3,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.7.4,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.8.1,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.1.8.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.8.3,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.8.4,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.9.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.1.9.2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.2.1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.2.2,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.2.3,1,97354,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+97354.H1,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+97354.H2,1,97354,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.1,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.10,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.2,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.3,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.4,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.5,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.6,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.7,1,98235,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+98235.1.8,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98235.1.9,1,98235,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.1,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.10,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.2,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.3,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.4,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.5,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.6,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.7,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.8,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98760.1.9,1,98760,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.1,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.10,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.2,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.3,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.4,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.5,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.6,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.7,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.8,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98777.1.9,1,98777,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.1,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.10,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.2,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.3,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.4,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.5,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.6,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.7,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.8,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+98825.1.9,1,98825,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.1,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.10,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.2,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.3,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.4,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.5,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.6,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.7,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.8,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99138.1.9,1,99138,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.1,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.10,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.2,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.3,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.4,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.5,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.6,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.7,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.8,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99290.1.9,1,99290,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.1,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.10,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.2,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.3,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.4,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.5,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.6,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.7,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.8,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99423.1.9,1,99423,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464-H1,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464-H2,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464-H3,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.1,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.10,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.2,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.3,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.4,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.5,1,99464,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+99464.1.6,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.7,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.8,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99464.1.9,1,99464,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.1,1,99474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+99474.1.10,1,99474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+99474.1.2,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.3,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.4,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.5,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.6,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99474.1.7,1,99474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+99474.1.8,1,99474,0,processed,2,8,7,4,False,none,none,100.0,16.0,8,2,250,True,four_pt
+99474.1.9,1,99474,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.1,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.10,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.2,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.3,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.4,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.5,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.6,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.7,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.8,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt
+99826.1.9,1,99826,0,processed,3,8,7,4,False,none,none,100.0,16.0,8,3,250,True,four_pt

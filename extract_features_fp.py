@@ -94,6 +94,10 @@ if __name__ == '__main__':
 			print('skipped {}'.format(slide_id))
 			continue 
 
+		if not os.path.exists(h5_file_path):
+			print('Not found {}. Skipped.'.format(slide_id))
+			continue 
+
 		output_path = os.path.join(args.feat_dir, 'h5_files', bag_name)
 		time_start = time.time()
 		wsi = openslide.open_slide(slide_file_path)
