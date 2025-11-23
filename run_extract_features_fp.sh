@@ -5,4 +5,4 @@ CUDA_VISIBLE_DEVICES=0 python extract_features_fp.py \
 	--csv_path /home/aivienk/vietaitech/softwares/CLAM/data/processed/all/process_list_autogen.csv \
 	--feat_dir /home/aivienk/vietaitech/softwares/CLAM/data/processed/all/features \
 	--batch_size 512 \
-	--slide_ext .svs
+	--slide_ext .svs --no_auto_skip

@@ -2,6 +2,7 @@ from __future__ import print_function
 
 import numpy as np
 
+import matplotlib.pyplot as plt
 import argparse
 import torch
 import torch.nn as nn
@@ -39,7 +40,7 @@ parser.add_argument('--fold', type=int, default=-1, help='single fold to evaluat
 parser.add_argument('--micro_average', action='store_true', default=False, 
                     help='use micro_average instead of macro_avearge for multiclass AUC')
 parser.add_argument('--split', type=str, choices=['train', 'val', 'test', 'all'], default='test')
-parser.add_argument('--task', type=str, choices=['task_1_tumor_vs_normal',  'task_2_tumor_subtyping'])
+parser.add_argument('--task', type=str, choices=['bc_cls', 'task_1_tumor_vs_normal',  'task_2_tumor_subtyping'])
 parser.add_argument('--drop_out', type=float, default=0.25, help='dropout')
 parser.add_argument('--embed_dim', type=int, default=1024)
 args = parser.parse_args()
@@ -89,6 +90,15 @@ elif args.task == 'task_2_tumor_subtyping':
                             label_dict = {'subtype_1':0, 'subtype_2':1, 'subtype_3':2},
                             patient_strat= False,
                             ignore=[])
+elif args.task == 'bc_cls':
+    args.n_classes=2
+    dataset = Generic_MIL_Dataset(csv_path = 'data/processed/all/process_list_autogen.csv',
+                            data_dir= os.path.join(args.data_root_dir, 'resnet_features'),
+                            shuffle = False,
+                            print_info = True,
+                            label_dict = {0:0, 1:1},
+                            patient_strat=True,
+                            ignore=[])
 
 # elif args.task == 'tcga_kidney_cv':
 #     args.n_classes=3
@@ -123,6 +133,7 @@ if __name__ == "__main__":
     all_results = []
     all_auc = []
     all_acc = []
+    results = []
     for ckpt_idx in range(len(ckpt_paths)):
         if datasets_id[args.split] < 0:
             split_dataset = dataset
@@ -130,12 +141,23 @@ if __name__ == "__main__":
             csv_path = '{}/splits_{}.csv'.format(args.splits_dir, folds[ckpt_idx])
             datasets = dataset.return_splits(from_id=False, csv_path=csv_path)
             split_dataset = datasets[datasets_id[args.split]]
-        model, patient_results, test_error, auc, df  = eval(split_dataset, args, ckpt_paths[ckpt_idx])
+        model, patient_results, test_error, auc, df, metrics  = eval(split_dataset, args, ckpt_paths[ckpt_idx])
         all_results.append(all_results)
         all_auc.append(auc)
         all_acc.append(1-test_error)
         df.to_csv(os.path.join(args.save_dir, 'fold_{}.csv'.format(folds[ckpt_idx])), index=False)
+        results.append(metrics)
 
+    for i, key in enumerate(results):
+        print(f'>>> Fold {i}\nPrecision: {100*results[i]["precision"]:.2f}\nRecall: {100*results[i]["recall"]:.2f}\nAccuracy: {100*results[i]["accuracy"]:.2f}\n\n')
+        cm = results[i]['confusion_matrix']
+        cm_normalized = results[i]['confusion_matrix_normalized'] * 100
+        fig_cm = ConfusionMatrixDisplay(cm, display_labels=["Vu lanh", "K vu"])
+        fig_cm.plot()
+        plt.savefig(f'confusion_matrix_fold{i}.png', dpi=300)
+        fig_cm_norm = ConfusionMatrixDisplay(cm_normalized, display_labels=["Vu lanh", "K vu"])
+        fig_cm_norm.plot(values_format=".1f")
+        plt.savefig(f'confusion_matrix_normalized_fold{i}.png', dpi=300)
     final_df = pd.DataFrame({'folds': folds, 'test_auc': all_auc, 'test_acc': all_acc})
     if len(folds) != args.k:
         save_name = 'summary_partial_{}_{}.csv'.format(folds[0], folds[-1])

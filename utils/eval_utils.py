@@ -10,7 +10,7 @@ import os
 import pandas as pd
 from utils.utils import *
 from utils.core_utils import Accuracy_Logger
-from sklearn.metrics import roc_auc_score, roc_curve, auc
+from sklearn.metrics import roc_auc_score, roc_curve, auc, precision_recall_curve, precision_score, recall_score, accuracy_score, confusion_matrix, ConfusionMatrixDisplay
 from sklearn.preprocessing import label_binarize
 import matplotlib.pyplot as plt
 
@@ -50,10 +50,10 @@ def eval(dataset, args, ckpt_path):
     
     print('Init Loaders')
     loader = get_simple_loader(dataset)
-    patient_results, test_error, auc, df, _ = summary(model, loader, args)
+    patient_results, test_error, auc, df, _, metrics = summary(model, loader, args)
     print('test_error: ', test_error)
     print('auc: ', auc)
-    return model, patient_results, test_error, auc, df
+    return model, patient_results, test_error, auc, df, metrics
 
 def summary(model, loader, args):
     acc_logger = Accuracy_Logger(n_classes=args.n_classes)
@@ -110,9 +110,24 @@ def summary(model, loader, args):
                 auc_score = auc(fpr, tpr)
             else:
                 auc_score = np.nanmean(np.array(aucs))
+                
+    precision = precision_score(all_labels, all_preds)
+    recall = recall_score(all_labels, all_preds)
+    accuracy = accuracy_score(all_labels, all_preds)
+    cm = confusion_matrix(all_labels, all_preds)
+    cm_normalized = confusion_matrix(all_labels, all_preds, normalize='true')
+    
+    metrics = {
+        'precision': precision,
+        'recall': recall,
+        'accuracy': accuracy,
+        'confusion_matrix': cm,
+        'confusion_matrix_normalized': cm_normalized
+    }
 
     results_dict = {'slide_id': slide_ids, 'Y': all_labels, 'Y_hat': all_preds}
     for c in range(args.n_classes):
         results_dict.update({'p_{}'.format(c): all_probs[:,c]})
     df = pd.DataFrame(results_dict)
-    return patient_results, test_error, auc_score, df, acc_logger
+    
+    return patient_results, test_error, auc_score, df, acc_logger, metrics
